@@ -30,4 +30,4 @@ Instead of focusing on the basics, the goal here is to explore **new widgets** f
 ## 🛠️ Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/radwahmed/flutter-advanced-widgets-playground.git
+   git clone https://github.com/radwahmed/Flutter-Widget-Catalog.git
